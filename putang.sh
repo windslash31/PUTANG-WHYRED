@@ -23,11 +23,11 @@ KERN_IMG=$KERNEL_DIR/out/arch/arm64/boot/Image.gz-dtb
 BASE_VER="Putang-Miui"
 VER="-v0-$(date +"%Y-%m-%d"-%H%M)-"
 BUILD_START=$(date +"%s")
-ANYKERNEL_DIR=/home/android/Downloads/Putang-Test/
+ANYKERNEL_DIR=/home/android/Downloads/Putang-MIUI/
 EXPORT_DIR=/home/android/Desktop/zips/
 
 # Change every build
-ZIP_NAME="Putang-Test-0.3-MIUI"
+ZIP_NAME="Putang-Miui-1.0"
 
 # Color Code Script
 Black='\e[0;30m'        # Black
